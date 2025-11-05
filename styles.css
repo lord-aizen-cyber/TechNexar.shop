@@ -10,7 +10,7 @@ body {
 }
 
 .bg-overlay {
-  background: url('https://i.ibb.co/VL5GjBB/rimuru-duduk-tensura.jpg') center center/cover no-repeat;
+  background: url('') center center/cover no-repeat;
   filter: brightness(0.3) blur(2px);
   position: fixed;
   z-index: 0;
